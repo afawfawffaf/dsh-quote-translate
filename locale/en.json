@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Quote translate",
+    "description": "Translate the selected message text into Simplified Chinese from the text-selection toolbar."
+  },
+  "translate": {
+    "add": "Translate",
+    "failed": "Translation failed",
+    "unavailable": "Translation service is unavailable",
+    "timeout": "Translation timed out, please retry"
+  }
+}

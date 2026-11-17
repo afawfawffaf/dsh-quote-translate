@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "划词翻译",
+    "description": "在文本选择工具栏中把选中的消息文本翻译成简体中文。"
+  },
+  "translate": {
+    "add": "翻译",
+    "failed": "翻译失败",
+    "unavailable": "翻译服务当前不可用",
+    "timeout": "翻译超时，请重试"
+  }
+}

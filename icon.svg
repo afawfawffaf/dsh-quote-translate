@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Quote translate">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#247bbf"/>
+  <path d="M18 22h14M25 22v18" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 22h22" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M34 30h14M41 30v12" stroke="#d8ecff" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M32 30h18" stroke="#d8ecff" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M20 44h24" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+</svg>
